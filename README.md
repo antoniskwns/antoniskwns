@@ -24,4 +24,6 @@ neural nets · Monte Carlo · time-series & forecast evaluation
 
 ### Reach me
 
+Based in Athens · open to quantitative research roles and collaboration.
+
 [LinkedIn](https://www.linkedin.com/in/antoniskwns) · anthonykonsta04@gmail.com
