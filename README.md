@@ -1,7 +1,7 @@
 # Hi, I'm Antonis 👋
 
 Quantitative researcher working at the intersection of **econometrics, machine learning,
-and financial risk**. MSc in Quantitative Finance (Erasmus University Rotterdam); BSc in
+and financial risk**. MSc in Quantitative Finance (Erasmus University Rotterdam, expected June 2027); BSc in
 Econometrics & Data Science (University of Amsterdam), with an exchange at Peking
 University. I like volatility modelling, forecast evaluation done honestly, and turning
 research into code that actually runs.
